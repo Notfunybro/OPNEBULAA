@@ -13,3 +13,11 @@ end
 if game.PlaceId == 6520999642 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Notfunybro/MOON-X/refs/heads/main/obfuscated_Basicaly_fnf_remix.lua"))()
 end
+
+if game.PlaceId == 14822302723 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Notfunybro/MOON-X/refs/heads/main/GUN-BALLL"))()
+end
+
+if game.PlaceId == 335760407 or game.PlaceId == 13762482705 or game.PlaceId == 13804242208 or game.PlaceId == 13804254727 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Notfunybro/MOON-X/refs/heads/main/obfuscated_fuchboll_MAIN.lua"))()
+end
