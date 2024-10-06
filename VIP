@@ -1,0 +1,8 @@
+
+if game.PlaceId == 621129760 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Notfunybro/MOON-X/refs/heads/main/obfuscated_kat.lua"))()
+end
+
+if game.PlaceId == 10253248401 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Notfunybro/MOON-X/refs/heads/main/obfuscated_POWER_TYCOON.lua"))()
+end
